@@ -3,7 +3,6 @@
 import fs from "fs"
 import {SortTransform} from "./classTransfrom.js"
 
-git add .
 let infile = process.argv[2]
 let outfile = process.argv[3]
 let memoryUsage = 500*(2**20)
