@@ -4,5 +4,5 @@ This is a task for TAGES.
 To run this application you need to install all ``` npm ``` dependecies.
 Next, run script specifying input and output file in ```package.json```:
 ```console
-$ npm ran app
+$ npm run app
 ```
